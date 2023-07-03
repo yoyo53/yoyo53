@@ -1,7 +1,7 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-[![](https://img.shields.io/badge/Email-%2336465D?&logo=gmail&logoColor=white&style=for-the-badge)](yohan.villiers@efrei.net)
+[![](https://img.shields.io/badge/Email-%2336465D?&logo=gmail&logoColor=white&style=for-the-badge)](mailto:yohan.villiers@efrei.net)
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yohan-villiers)
-[![](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](discordapp.com/users/582658701480034305)
+[![](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/582658701480034305)
 
 ![Profile views](https://komarev.com/ghpvc/?username=yoyo53&style=flat-square&color=blue)
 
@@ -74,6 +74,6 @@ If you have any questions, suggestions, or just want to connect, you can reach m
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white) : 
 <https://www.linkedin.com/in/yohan-villiers>  
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white) : 
-[@yoyo53](discordapp.com/users/582658701480034305)  
+[@yoyo53](https://discordapp.com/users/582658701480034305)  
 
 Feel free to contact me for collaboration opportunities, project inquiries, or any other development-related discussions.
